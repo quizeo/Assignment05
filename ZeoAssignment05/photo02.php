@@ -20,12 +20,12 @@
 <body>
 	<center>
 		<h2>Photo 2</h2>
-		<img src="Photo2.jpg" width="360px">
+		<img src="photo2.jpg" width="360px">
 	</center>
 <hr width="75%">
 	<nav>
 			<p>
-				<a href="Photo03.php" style="float: right;">Next Photo</a>
+				<a href="photo03.php" style="float: right;">Next Photo</a>
 			</p>
 			<p>
 				<a href="index.php">Back to home</a>
