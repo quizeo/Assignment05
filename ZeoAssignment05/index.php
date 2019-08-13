@@ -49,10 +49,10 @@
 </head>
 <body>
 	<ul>
-		<li><a href="photo01.html">Photo 1</a></li>
-		<li><a href="photo02.html">Photo 2</a></li>
-		<li><a href="photo03.html">Photo 3</a></li>
-		<li><a href="photo04.html">Photo 4</a></li>
+		<li><a href="photo01.php">Photo 1</a></li>
+		<li><a href="photo02.php">Photo 2</a></li>
+		<li><a href="photo03.php">Photo 3</a></li>
+		<li><a href="photo04.php">Photo 4</a></li>
 	</ul>
 
 </body>
