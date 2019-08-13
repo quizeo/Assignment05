@@ -27,7 +27,7 @@
 <hr width="75%">
 		<nav>
 			<p>
-				<a href="Photo02.html" style="float: right;">Next Photo</a>
+				<a href="Photo02.php" style="float: right;">Next Photo</a>
 			</p>
 			<p>
 				<a href="index.php">Back to home</a>
