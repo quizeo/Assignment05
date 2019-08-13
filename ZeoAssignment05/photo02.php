@@ -28,7 +28,7 @@
 				<a href="Photo03.html" style="float: right;">Next Photo</a>
 			</p>
 			<p>
-				<a href="index.php.html">Back to home</a>
+				<a href="index.php">Back to home</a>
 			</p>
 		</nav>
 
