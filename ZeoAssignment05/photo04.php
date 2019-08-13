@@ -24,7 +24,7 @@
 <body>
 	<center>
 		<h2>Photo 4</h2>
-		<img src="Photo4.jpg" width="860px">
+		<img src="photo4.jpg" width="860px">
 	</center>
 <hr width="75%">
 	<p>
