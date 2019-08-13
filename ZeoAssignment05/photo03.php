@@ -24,13 +24,13 @@
 <body>
 	<center>
 		<h2>Photo 3</h2>
-		<img src="Photo3.jpg" width="360px">
+		<img src="photo3.jpg" width="360px">
 	</center>
 <hr width="75%">
 		
 		<nav>
 			<p>
-				<a href="Photo04.php" style="float: right;">Next Photo</a>
+				<a href="photo04.php" style="float: right;">Next Photo</a>
 			</p>
 			<p>
 				<a href="index.php">Back to home</a>
