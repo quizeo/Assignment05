@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <style>
@@ -33,10 +34,12 @@
 		color: #fff;
 		padding: 5px 20px;
 		border: 1px solid #fff;
+
 	}
 	ul li:hover{
 		background-color: #87cefa;
 		color: black;
+		display: inline-block;
 	}
 
 </style>
@@ -54,6 +57,12 @@
 		<li><a href="photo03.php">Photo 3</a></li>
 		<li><a href="photo04.php">Photo 4</a></li>
 	</ul>
-
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+		<center><button><a href="index2.html"></a>Logout</button></center>
 </body>
 </html>
