@@ -29,7 +29,7 @@
 	</header>
 </head>
 <body>
-	<form action="open.html">
+	<form action="open.php">
 		<center>
 		<table>
 			<tr>
