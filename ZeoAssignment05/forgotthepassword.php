@@ -40,7 +40,7 @@
 			<input type="password" name="Password">
 		<br>
 		<br>
-			<button><a href="alogin.html">Reset Password</a></button>
+			<button><a href="alogin.php">Reset Password</a></button>
 	</form>
 	</center>
 
