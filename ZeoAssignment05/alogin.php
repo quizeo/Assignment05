@@ -55,10 +55,10 @@
 		</table>
 
 		<p>
-			<a href="Forgotthepassword.html">Forgot the Password</a>
+			<a href="Forgotthepassword.php">Forgot the Password</a>
 		</p>
 		<p>
-			<a href="Signup.html">Sign Up</a>
+			<a href="Signup.php">Sign Up</a>
 		</p>
 		</form>
 		</center>
