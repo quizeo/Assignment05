@@ -63,6 +63,6 @@
 	<br>
 	<br>
 	<br>
-		<center><button><a href="index2.html"></a>Logout</button></center>
+		<center><button><a href="alogin.html"></a>Logout</button></center>
 </body>
 </html>
